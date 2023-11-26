@@ -1,5 +1,5 @@
 ## 3d scene spanning multiple windows using three.js and localStorage
 
-A simple example showing how to setup a 3d scene across windows on the same origin using three.js and localStorage. Code should be self explanatory
+Test of how to set up a 3D scene that spans across multiple browser windows using Three.js and localStorage.
 
-follow me on twitter at [@_nonfigurativ_](https://twitter.com/_nonfigurativ_) for more stuff like this
+Based on the work of [bgstaal](https://github.com/bgstaal/multipleWindow3dScene). 
